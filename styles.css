@@ -3,4 +3,8 @@ html, body {
     padding: 0;
     font-size: 16px;
 }
+
+.p {
+    width: 10rem;
+}
  
